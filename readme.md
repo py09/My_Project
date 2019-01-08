@@ -6,3 +6,5 @@
   https://www.learnhowtoprogram.com/workshops/intro-to-programming-workshop/writing-html
 
   https://www.learnhowtoprogram.com/workshops/intro-to-programming-workshop/styling-with-css
+
+  https://www.learnhowtoprogram.com/workshops/intro-to-programming-workshop/interactivity-with-javascript-jquery
